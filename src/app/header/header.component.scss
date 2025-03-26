@@ -1,0 +1,39 @@
+
+html{
+
+}
+.nav-letivo{
+    height: 80px;
+    background-color: #0a65a7;
+    padding: 0px 250px 0px 250px;
+}
+
+.nav-letivo span {
+    color: white;
+    
+}
+
+.btn-primary{
+    background-color: rgb(255, 255, 255);
+    color: black;
+    width: 90px;
+}
+
+.logo{
+    width: 100px;
+    height: 100px;
+    margin-left: 230px;
+    margin-top: 10px;
+}
+
+
+.logo-box{
+    display: flex;
+    align-items: center;
+}
+
+.logo-box span{
+font-size: 40px;
+font-weight: 700;
+color:  #0a65a7;
+}
